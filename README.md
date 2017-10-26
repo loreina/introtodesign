@@ -8,6 +8,7 @@ A few resources to get you started in design.
 
 1. Head over to [Figma](http://figma.com/) and sign up for an account
 1. Duplicate [Facebook iOS 10](https://www.figma.com/file/jkqPMA8VJX4OryEvIJvUSS/Facebook-iOS-10-Figma) to your files
+1. Duplicated [Google Material Design](https://www.figma.com/file/6kDxy9jxsLT7RTRbLRxFg3/Google-Material-Design) to your files
 1. Duplicate [Messenger Platform Design Kit](https://www.figma.com/file/coeJ1ZLsWVLGFtMAjH1Wy8jo/Messenger-Platform-Design-Kit-v1.0-Design-Kit) to your files
 1. Play around from there!
 
